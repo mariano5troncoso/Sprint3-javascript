@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#cuadrado {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    border-radius: 1rem;
+  }
+.calculadora {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: cadetblue;
+}
+.conversor {
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-top: 3rem;
+}
